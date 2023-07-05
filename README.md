@@ -1,2 +1,2 @@
 # My-Alteryx-Book
-Resources for My Alteryx Book (Working Title)
+Resources for My Alteryx Book named **Alteryx Designer: From Zero to Hero** (Working Title)
